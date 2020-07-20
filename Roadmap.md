@@ -2,9 +2,9 @@ Tracks Roadmap
 
 Ideas
 - [ ] Timeline, 
-- [ ]   [Timeline] (http://timeline.knightlab.com)
-- [ ]   [Timemapper] (http://timemapper.okfnlabs.org)      
-- [ ]   [d3-milestones] (http://github.com/walterra/d3-milestones)
+- [ ]   [Timeline](http://timeline.knightlab.com)
+- [ ]   [Timemapper](http://timemapper.okfnlabs.org)      
+- [ ]   [d3-milestones](http://github.com/walterra/d3-milestones)
 - [ ] Date & Time, Manual/Track/Photo
 - [ ] Automation
 
