@@ -5,6 +5,7 @@
 - [ ] . [Timeline](http://timeline.knightlab.com)
 - [ ] . [Timemapper](http://timemapper.okfnlabs.org)      
 - [ ] . [D3-milestones](http://github.com/walterra/d3-milestones)
+- [ ] Photo
 - [ ] Date & Time, Manual/Track/Photo
 - [ ] Automation
 
