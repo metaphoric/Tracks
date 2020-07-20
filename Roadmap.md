@@ -6,7 +6,9 @@
 - [ ] . [Timemapper](http://timemapper.okfnlabs.org)      
 - [ ] . [D3-milestones](http://github.com/walterra/d3-milestones)
 - [ ] Photo
-- [ ] Date & Time, Manual/Track/Photo
+- [ ] Date & Time 
+- [ ] . Drawn Track Manual/Track/Photo (consistency on manual created track)
+- [ ] . Photo       Manual/Track/Photo (privacy)
 - [ ] Automation
 
 **ToDo**
